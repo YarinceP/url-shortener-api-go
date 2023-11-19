@@ -1,4 +1,4 @@
-module github.com/yarincep/url-shortener-api-go
+module github.com/yarincep/url-shortener-api-go/api
 
 go 1.21.3
 
